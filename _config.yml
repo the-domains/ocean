@@ -1,0 +1,28 @@
+name: OCEAN
+favicon: null
+layout_spectrum: 0.9210884345229715
+typography_spectrum: 0.26147384522482753
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3655070713721216
+  lightness: 0.9246888875495642
+  saturation: 0.12813304434530437
+  rhythmicContrast: 0.4031719162594527
+purpose: []
