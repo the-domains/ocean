@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T01:36:56.975Z'
-dateModified: '2016-06-01T01:36:54.445Z'
+datePublished: '2016-06-02T23:48:29.872Z'
+dateModified: '2016-06-02T23:48:04.522Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-granite-point-maine.md
