@@ -1,6 +1,6 @@
 name: OCEAN
 favicon: null
-layout_spectrum: 0.19375
+layout_spectrum: 0
 typography_spectrum: 0.87504
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#7d9cb8'
     - '#3f4b20'
     - '#d57ac9'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
